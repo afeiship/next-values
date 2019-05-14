@@ -1,12 +1,12 @@
 # next-values
 > Object values enhanced version.
 
-## install
+## installation
 ```bash
 npm install -S afeiship/next-values --registry=https://registry.npm.taobao.org
 ```
 
-## usage:
+## usage
 ```js
 import NxKeys from 'next-values';
 const obj1 = {

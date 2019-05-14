@@ -1,6 +1,7 @@
 {
   "name": "next-values",
-  "description": "Object values enhanced version.",
+  "version": "0.0.1",
+  "description": "Object values enhanced version",
   "main": "dist/next-values.js",
   "authors": [
     "afei"
@@ -19,6 +20,7 @@
     "bower_components",
     "test",
     "tests",
+    "build",
     "src",
     "gulp",
     "gulpfile.js"

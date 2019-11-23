@@ -1,7 +1,7 @@
 {
   "name": "next-values",
   "version": "0.0.1",
-  "description": "Object values enhanced version",
+  "description": "nextBoilerplatePackageDescription",
   "main": "dist/next-values.js",
   "authors": [
     "afei"

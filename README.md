@@ -8,7 +8,7 @@ npm install -S @feizheng/next-values
 
 ## usage
 ```js
-import 'next-values';
+import '@feizheng/next-values';
 
 //DOCS here!
 ```

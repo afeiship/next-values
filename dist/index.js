@@ -3,7 +3,7 @@
  * description: Object values enhanced version.
  * homepage: https://github.com/afeiship/next-values
  * version: 1.0.0
- * date: 2020-11-18T10:24:13.871Z
+ * date: 2020-11-18 18:30:03
  * license: MIT
  */
 
